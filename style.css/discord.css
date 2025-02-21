@@ -43,4 +43,24 @@ header {
     text-align: right;
 }
 
+.sect {
+    min-height: 400px;
+    padding: 30px;
+}
 
+.sect.first {
+    background-color: #00008B;
+}
+
+.sect.second {
+
+}
+
+.img-intro {
+    background-color: #EE82EE;
+    border: var(--border-dash);
+    width: 80%;
+    min-height: 300px;
+    margin: auto;
+    
+}
